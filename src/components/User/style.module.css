@@ -1,0 +1,17 @@
+.userItem{
+    width: 237px;
+    height: 280px;
+    margin: 10px;
+    background: #D9D9D9;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.userItem img{
+    width: 115px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

@@ -1,0 +1,36 @@
+.global{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 100px;
+}
+
+.userItemContainer{
+    display: flex; 
+}
+
+.manContainer{
+    padding: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    background-color: #2C3E50;
+    color: #fff;
+    display: flex;
+    
+    flex-direction: column;
+}
+
+.womanContainer{
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #2C3E50;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+}
+
+.manContainer img{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
